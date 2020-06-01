@@ -26,6 +26,10 @@ print(f"""
 """)
 ```
 
-### result
+### print image
+<div>
+    <img src="https://user-images.githubusercontent.com/15328028/83391773-f2f7d300-a42e-11ea-96b7-7ed7f5f04971.png">
+</div>
+ 
 
 

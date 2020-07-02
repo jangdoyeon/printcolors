@@ -1,7 +1,9 @@
-### printcolors
+printcolors
+=========
 class for printing color text in terminal
 
-### class code
+class code
+---------
 ```
 class Pcolors:
     RED = '\033[95m'
